@@ -1,0 +1,79 @@
+* {
+    font-family: 'Fraunces', serif;
+    /*font-family: 'Montserrat', sans-serif;*/
+    }
+    
+    
+    
+    
+      body{
+    
+        background-color: hsl(30, 38%, 92%);
+        
+      }
+      
+      .Super { font-size: 11px; text-align: center; }
+      
+      .Super a { color: hsl(228, 45%, 44%); }
+      
+      
+    table {
+           background-color: white;
+           border:none white ;
+           text-align: left;
+           margin: 230px auto 0 ;
+           border-radius: 10px 10px;
+        
+        }
+      
+    
+   button {
+        width: 250px;
+         height: 50px;
+         margin: 0 32px 50px;
+        background-color:hsl(158, 36%, 37%) ;
+        color: white;
+        border: none;
+        border-radius: 10px 10px;
+        font-size: 16px;
+    
+    }
+    
+   .niemoge {
+       float: left;
+       }
+    
+    .wre {
+     font-size: 30px;
+      color:hsl(158, 36%, 37%);
+      margin: 0 32px 23px ;
+    }
+    
+    .pol {
+    
+      color:hsl(228, 12%, 48%);
+      margin: 5px 0 30px;
+    }
+    
+    h1{
+    
+      color: hsl(212, 21%, 14%);
+      margin:20px 32px;
+      font-size: 40px;
+    }
+    
+    .B {
+    
+      color:hsl(228, 12%, 48%);
+      margin: 20px 32px;
+    }
+
+    #HEL {
+border-radius: 10px 0 0 10px;
+}
+
+.H{
+
+    font-size: 14px;
+    letter-spacing: 10px;
+}
