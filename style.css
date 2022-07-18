@@ -77,3 +77,8 @@ border-radius: 10px 0 0 10px;
     font-size: 14px;
     letter-spacing: 10px;
 }
+
+button:hover {
+background-color: hsl(158, 72%, 11%);
+
+}
